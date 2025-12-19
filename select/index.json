@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "マジで感謝！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2025-12-19T07:55:42.498209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マジで感謝!",
+      "artist": "pugcat's",
+      "has_synced": true,
+      "path": "select/01_マジで感謝!_pugcat's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マジで感謝！ （第27話〜54話 OP)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/02_マジで感謝!_(第27話〜54話_OP)_Muray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マジで感謝! (アニメオープニングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_マジで感謝!_(アニメオープニングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マジで感謝！（アニメオープニングVer.）",
+      "artist": "T-Pistonz＋KMC",
+      "has_synced": false,
+      "path": "select/04_マジで感謝!(アニメオープニングVer.)_T-Pistonz+KMC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジで感謝!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_マジで感謝!_T-Pistonz+KMC.txt"
+    }
+  ]
+}
